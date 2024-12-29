@@ -20,7 +20,7 @@ public class CollectionExample1 {
         List<String> arrayList = new ArrayList<String>();
         arrayList.add("PHP1");
         arrayList.add("Pytho11n1");
-        arrayList.add("Java1");
+        arrayList.add("Java1"12312);
         arrayList.add("C++");
         System.out.println("Các 111phần tử của ArrayList");
         System.out.print("\t" + arrayList + "\n");
