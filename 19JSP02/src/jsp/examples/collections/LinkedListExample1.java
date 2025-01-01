@@ -28,7 +28,7 @@ public class LinkedListExample1 {
         linkedList.addFirst("Python");
         // Show list through for-each
         System.out.println();
-        for (String obj : linkedList) {
+        for (String obj : l123inkedList) {
             System.out.print(obj + ", ");
         }
         // add last
