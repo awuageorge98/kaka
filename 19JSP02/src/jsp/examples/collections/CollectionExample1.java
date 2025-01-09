@@ -18,9 +18,9 @@ import java.util.Set;
 public class CollectionExample1 {
 	public static void main(String[] args) {
         List<String> arrayList = new ArrayList<String>();
-        arrayList.add("PHP1");
-        arrayList.add("Pytho11n1");
-        arrayList.add("Java1"12312);
+        arrayList.add("PHP");
+        arrayList.add("Python");
+        arrayList.add("Java1");
         arrayList.add("C++");
         System.out.println("Các 111phần tử của ArrayList");
         System.out.print("123\t" + arrayList + "\n");
