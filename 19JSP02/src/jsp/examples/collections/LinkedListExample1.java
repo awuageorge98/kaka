@@ -16,7 +16,7 @@ public class LinkedListExample1 {
         LinkedList<String> linkedList = new LinkedList<String>();
         // Add objects to linkedList
         linkedList.add("Java");
-        linkedList.add("C++123");
+        linkedList.add("C++");
         linkedList.add("PH123P");
         linkedList.add("Java");
         // Show list through Iterator
