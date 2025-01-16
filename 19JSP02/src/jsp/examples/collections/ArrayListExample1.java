@@ -16,7 +16,7 @@ public class ArrayListExample1 {
         ArrayList<String> list = new ArrayList<String>();
         // Add objects to arraylist
         list.add("Java");
-        list.add("C++123");
+        list.add("C++");
         list.add("PHP");
         list.add("Java11");
         // Show list through Iterator
